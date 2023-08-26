@@ -1,0 +1,1 @@
+print("1992 stock central line stock")
